@@ -14,6 +14,7 @@ Each folder contains a simple, fun project made to practice and improve my Pytho
 - 💱 **Convert Currency** – Convert between different currencies easily
 - 📝 **Text Editor** – Create and edit text files with a simple interface
 - ☁️ **Weather App** – Get real-time weather updates for any city
+- 🎮 **XO Game (Tic-Tac-Toe)** – A simple Tic-Tac-Toe (X-O) game built using Python’s Tkinter GUI library
 
 ---
 
