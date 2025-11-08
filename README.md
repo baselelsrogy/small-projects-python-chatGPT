@@ -15,6 +15,7 @@ Each folder contains a simple, fun project made to practice and improve my Pytho
 - 📝 **Text Editor** – Create and edit text files with a simple interface
 - ☁️ **Weather App** – Get real-time weather updates for any city
 - 🎮 **XO Game (Tic-Tac-Toe)** – A simple Tic-Tac-Toe (X-O) game built using Python’s Tkinter GUI library
+- 💰 **Expense Tracker (Python + Tkinter)** – built using **Python (Tkinter)** that helps you manage and track your daily expenses
 
 ---
 
